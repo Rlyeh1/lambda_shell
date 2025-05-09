@@ -15,5 +15,5 @@ export const handler = async (event) =>{
 		statusCode:200,
 		body: JSON.stringify(rows),
 	};
-	// change from main branch
+//Fixed problem bro
 };
